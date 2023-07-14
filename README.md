@@ -1,4 +1,9 @@
 # Planet Zava
+
+<p align="center">
+  <img src="https://media.tenor.com/pJ7JycmHajEAAAAM/troverse-planet.gif" alt="Description of the GIF" />
+</p>
+
 Projectile motion on planet Zava
 
 On Planet Zava there is a lake 1000 m deep with a fluid that has uniform density ρ0 = 2.5 kg/m3.
