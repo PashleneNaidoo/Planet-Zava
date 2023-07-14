@@ -14,3 +14,10 @@ pV^γ = constant, where γ = 5/3.
 the sphere is acted on by its weight, mg, and by the buoyant force
 B = ρ0Vg. The lake floor is horizontal, and the intention is that the sphere first lands 1000 m
 away, after which it bounces, losing 50% of its kinetic energy at each bounce
+
+Things I still need to add :
+1)To take into consideration of buoyancy and the volume changes that happen adiabatically, including the pressure of the elastic shell
+2)Ensure the first bounce has a distance of 1000m
+
+
+
